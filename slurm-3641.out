@@ -1,0 +1,17 @@
+Time taken by reduction operation: 0.3103153705596924 seconds
+309 ms ± 79.1 µs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+
+ 	 Computing the sum of numbers in the range [0, N): 49999995000000
+
+Time taken by using for loop: 0.2532846927642822 seconds
+253 ms ± 208 µs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Time taken by sum function 0.048593997955322266 seconds
+48.8 ms ± 22.9 µs per loop (mean ± std. dev. of 2 runs, 10 loops each)
+Time taken with loop: 0.5027303695678711 seconds
+493 ms ± 391 µs per loop (mean ± std. dev. of 2 runs, 1 loop each)
+Time taken by sum function: 0.0035021305084228516 seconds
+3.39 ms ± 7.21 µs per loop (mean ± std. dev. of 2 runs, 100 loops each)
+Time taken with loop: 1.3170604705810547 seconds
+5.29 ms ± 2.42 µs per loop (mean ± std. dev. of 2 runs, 100 loops each)
+Time taken by sum function: 0.12473917007446289 seconds
+3.28 ms ± 3.09 µs per loop (mean ± std. dev. of 2 runs, 100 loops each)
